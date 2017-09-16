@@ -1,0 +1,320 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#container{
+	width:790px;
+	height:590px;
+	margin: auto;
+	padding: 10px;
+}
+
+#containerSub{
+	width:790px;
+	height:590px;
+	background-color: black;
+	margin: auto;
+	padding: 10px;
+}
+
+/*-----------------------*/
+#left {
+	width: 240px;
+	height: 590px;
+	float: left;
+}
+#left .topHalfWhite {
+	width: 20px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#left .topHalfRed {
+	width: 230px;
+	height: 230px;
+	background-color: red;
+	float: left;
+	clear: both;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#left .topHalfBlue {
+	width: 200px;
+	height: 50px;
+	background-color: blue;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#left .bottomHalfBlack {
+	width: 110px;
+	height: 110px;
+	background-color: black;
+	float: left;
+	clear: both;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#left .bottomHalfWhite1 {
+	width: 110px;
+	height: 110px;
+	background-color: white;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#left .bottomHalfWhite2 {
+	width: 110px;
+	height: 110px;
+	background-color: white;
+	float: left;
+	clear: both;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#left .bottomHalfRed {
+	width: 110px;
+	height: 50px;
+	background-color: red;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#left .bottomHalfWhite3 {
+	width: 110px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	clear: both;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#left .bottomHalfYellow {
+	width: 50px;
+	height: 110px;
+	background-color: yellow;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: -60px;
+}
+
+#left .bottomHalfWhite4 {
+	width: 50px;
+	height: 110px;
+	background-color: white;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: -60px;
+}
+
+/*-----------------------*/
+#leftMiddle {
+	width: 160px;
+	height: 590px;
+	float: left;
+}
+#leftMiddle .topHalfWhite1 {
+	width: 150px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#leftMiddle .topHalfYellow1 {
+	width: 150px;
+	height: 110px;
+	background-color: yellow;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#leftMiddle .topHalfBlack {
+	width: 70px;
+	height: 50px;
+	background-color: black;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#leftMiddle .topHalfYellow2 {
+	width: 70px;
+	height: 50px;
+	background-color: yellow;
+	float: left;
+	clear: both;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#leftMiddle .topHalfWhite2 {
+	width: 70px;
+	height: 110px;
+	background-color: white;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: -60px;
+}
+#leftMiddle .bottomHalfWhite1 {
+	width: 150px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#leftMiddle .bottomHalfBlack {
+	width: 150px;
+	height: 110px;
+	background-color: black;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#leftMiddle .bottomHalfWhite2 {
+	width: 150px;
+	height: 110px;
+	background-color: white;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+/*-----------------------*/
+#rightMiddle {
+	width: 160px;
+	height: 590px;
+	float: left;
+}
+#rightMiddle .topHalfWhite {
+	width: 150px;
+	height: 110px;
+	background-color: white;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#rightMiddle .topHalfBlue {
+	width: 150px;
+	height: 110px;
+	background-color: blue;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#rightMiddle .topHalfRed {
+	width: 150px;
+	height: 50px;
+	background-color: red;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#rightMiddle .bottomHalfBlue {
+	width: 150px;
+	height: 230px;
+	background-color: blue;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#rightMiddle .bottomHalfRed {
+	width: 70px;
+	height: 50px;
+	background-color: red;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#rightMiddle .bottomHalfBlack {
+	width: 70px;
+	height: 50px;
+	background-color: black;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+/*-----------------------*/
+#right {
+	width: 230px;
+	height: 590px;
+	float: left;
+}
+#right .topHalfBlack {
+	width: 50px;
+	height: 50px;
+	background-color: black;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#right .topHalfWhite1 {
+	width: 50px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#right .topHalfWhite2 {
+	width: 110px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	margin-bottom: 10px;
+}
+#right .topHalfWhite3 {
+	width: 110px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+#right .topHalfWhite4 {
+	width: 110px;
+	height: 110px;
+	background-color: white;
+	float: left;
+	margin-bottom: 10px;
+}
+#right .topHalfWhite5 {
+	width: 110px;
+	height: 170px;
+	background-color: white;
+	float: left;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-top: -60px;
+}
+#right .topHalfWhite6 {
+	width: 110px;
+	height: 110px;
+	background-color: white;
+	float: left;
+	margin-bottom: 10px;
+}
+#right .bottomHalfYellow {
+	width: 230px;
+	height: 230px;
+	background-color: yellow;
+	float: left;
+	margin-bottom: 10px;
+}
+#right .bottomHalfWhite1 {
+	width: 200px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+#right .bottomHalfWhite2 {
+	width: 20px;
+	height: 50px;
+	background-color: white;
+	float: left;
+	margin-bottom: 10px;
+}
